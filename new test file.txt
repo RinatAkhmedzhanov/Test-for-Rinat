@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 new change 1 
+=======
+data
+hjhgn
+
+asdasdasdasdas
+>>>>>>> 84bc9ed8e85b0c2a5b6f2a40c00750aee496fe68
